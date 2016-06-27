@@ -1,7 +1,9 @@
-# Bienvenidos al d√≠a gitocalipsis
+# Bienvenidos al dÌa gitocalipsis
 
-Este es un escenario de simulaci√≥n en el que vamos a intentar plantear todo un cojunto de situaciones en las que git puede sernos √∫til. Los alumnos deben aplicar sus conocimientos reci√©n adquiridos de git para salir adelante con √©xito en el d√≠a mas desastroso de sus vidas.
-
-Iremos marcando las diferentes situaciones del d√≠a mediante etiquetas que representan las horas de nuestro d√≠a de trabajo... en este fichero comentaremos las distintas situaciones a las que los alumnos deben enfrentarse y las tareas a realizar...
-
-√Ånimo.. el alba de este d√≠a se acerca... comencemos con la llegada a la oficina en la etiqueta de las 9 de la ma√±ana...
+Un dia como este no podÌa empezar de otra manera... tras semanas trabajando en tu proyecto te encuentras con que el disco duro de tu equipo ha fenecido... afortunadamente todos tus cambios estaban guardados (commitados y pusheados) en la nube... Sim embargo, el fallo implica que el repositorio LOCAL en el que est·s trabajando se autodestuir· en 15 segundos Y NO PODR¡S SEGIRLO USANDO... øque podemos hacer para seguir trabajando?
+5
+4
+3
+2
+1
+BOOOOOOOOOM!!!!
