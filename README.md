@@ -1,17 +1,20 @@
 # Bienvenidos al día gitocalipsis
-11 am
-La mañana sigue plácida como no puede ser de otra manera...
+13 am
 
-Coge el fichero "PlanDeDominacionIntergalactica.txt" de los materiales y añadelo a tu repositorio. Confirma los cambios con un  mensaje que no revele el verdadero plan a la alianza rebelde.
+Ha estallado el conflicto... ya sabías tú que dividir a los becarios en 2 grupos y ponerlos a competir con la ilusiva promesa de un contrato indefinido en un momento indefinido en el tiempo no traería nada bueno...
 
-Te acabas de dar cuenta de que el plan tiene un fallo garrafal añade el contenido del fichero "NuevoPlanDeDominacionIntergalactica.txt". Confirma el cambio de manera que nadie puede ver el plan original en el futuro...
+Cada equipo estaba trabajando en una rama, pero en el momento de integrar su funcionalidades para generar la versión final se han revelado porque el conflicto obliga a que uno de los dos equipos revise e integre en SU versión el trabajo de LOS OTROS.
 
-Argh!!!! Desde luego que estás fino hoy... El plan modificado sigue teniendo un fallo gravísimo...
-Deshaz el commit anterior y vuelve al estado original de las 10:30... 
+Afortunadamente, los dos equipos estaban trabajando en ramas distintas en la redacción de artículos científicos en ficheros de texto plano.
 
-Añade el fichero "PlanDefinitivoDeDominacionIntergalactica.txt" confirmalo y súbelo al repositorio...
+Concretamente, los equipos partían de una versión inicial del fichero, en la que se planetaba la hipótesis de la influencia de los capítulos de las series de culto más vistas por los desarrolladores sobre la calidad de los sistemas software.
 
-Finalmente, decides volver al lado luminoso de la fuerza... sobreescribe el último push con otro  en el que borras el fichero "PlanParaLaRefundacionDeLaRepublicaIntergalactica.txt".
+Cada equipo ha estado trabajando en una rama distinta en tareas diferentes. Los "enmarronati" se estaban encargando de estudiar la influencia de The big bang theory, y han generado un listado ordenado de episodios de la serie.
 
-El universo entero se acaba de salvar por los pelos... pero... este día aún no ha acabado
+Los "frikimasters" han estado trabajando en la influencia de Breaking Bad (otra serie de culto americana), generando otro listado ordenado de episodios.
+
+Su misión consiste en sofocar el conflicto, tomando las riendas de la situación. Para ello debe realizar la integración por su cuenta antes de que llegue la sangre al río. Para ello debe integrar ambas ramas generando un listado general ordenado de episodios en el tiempo de las dos series en la rama master. 
+
+En el futuro intentaremos sacar correlaciones entre la puntuación de los episodios en IMDB y el número errores encontrados en las versiones sacadas en la semana posterior a la emisión del episodio (eso no forma parte del del ejercicio :-p).  
+
 

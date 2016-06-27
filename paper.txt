@@ -1,0 +1,4 @@
+Hipótesis: Existe una correlación negativa entre la calidad de los episodios de las series de culto que ven los programadores
+ y el número de errores presente en las versiones publicada en la semana posterior a su emisión.
+
+Listado de capítulos a estudiar
